@@ -7,9 +7,9 @@
 
 //remote db connection
 $host="remotemysql.com"; // Host name
-$username="11G012W6Tq"; // Mysql username
-$password="IFZmUUrr9T"; // Mysql password
-$db_name=" 11G012W6Tq"; // Database name
+$username="yXelwnK4vf"; // Mysql username
+$password="dLmyFFlHCP"; // Mysql password
+$db_name="yXelwnK4vf"; // Database name
 
 $conn=mysqli_connect("$host", "$username", "$password")or die("cannot connect");
 
